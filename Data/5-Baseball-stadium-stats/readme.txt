@@ -1,0 +1,1 @@
+This CSV file was web scraped, but it could be clean up. Might even be easier to just copy and paste into a CSV.

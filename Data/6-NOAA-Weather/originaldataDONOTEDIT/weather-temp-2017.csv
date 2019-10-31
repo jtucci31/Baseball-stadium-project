@@ -1,0 +1,219 @@
+﻿May - October 2017 U.S. & Puerto Rico City Average Temperature,,,,
+Units: Degrees Fahrenheit,,,,
+Missing: -99,,,,
+Location ID,Location,Value,1981-2010 Mean,Anomaly (1981-2010 base period)
+USW00013876,"Birmingham, Alabama",74.9,74.9,0
+USW00003856,"Huntsville, Alabama",74.1,74.5,-0.4
+USW00013894,"Mobile, Alabama",77.3,77.1,0.2
+USW00013895,"Montgomery, Alabama",77.7,77.3,0.4
+USW00026451,"Anchorage, Alaska",52,51.1,0.9
+USW00027502,"Barrow, Alaska",34.2,30.9,3.3
+USW00026615,"Bethel, Alaska",49.1,47.7,1.4
+USW00026411,"Fairbanks, Alaska",52.7,49.7,3
+USW00025309,"Juneau, Alaska",51.3,51.1,0.2
+USW00026617,"Nome, Alaska",44.3,43,1.3
+USW00003103,"Flagstaff, Arizona",58.8,57.4,1.4
+USW00023183,"Phoenix, Arizona",89,87.5,1.5
+USW00023160,"Tucson, Arizona",83.5,81.6,1.9
+USW00003125,"Yuma, Arizona",87.8,86.6,1.2
+USW00013964,"Fort Smith, Arkansas",75.3,74.6,0.7
+USW00013963,"Little Rock, Arkansas",74.1,73.9,0.2
+USW00024213,"Eureka, California",56.8,55.7,1.1
+USH00043257,"Fresno, California",77.7,75.3,2.4
+USW00023174,"Los Angeles, California",69.4,66.7,2.7
+USW00023232,"Sacramento, California",72.5,70.4,2.1
+USW00023188,"San Diego, California",70.4,68.3,2.1
+USW00023234,"San Francisco, California",64.7,62.4,2.3
+USW00023061,"Alamosa, Colorado",57,56.2,0.8
+USW00093037,"Colorado Springs, Colorado",63.4,63,0.4
+USW00023066,"Grand Junction, Colorado",69,67.9,1.1
+USW00093058,"Pueblo, Colorado",66.8,66.8,0
+USW00094702,"Bridgeport, Connecticut",68.4,66.3,2.1
+USW00014740,"Hartford, Connecticut",66.4,64.8,1.6
+USW00013781,"Wilmington, Delaware",69.9,68.5,1.4
+USW00012834,"Daytona Beach, Florida",79.9,78.5,1.4
+USW00012835,"Fort Myers, Florida",81.7,80.6,1.1
+USW00013889,"Jacksonville, Florida",78.9,77.8,1.1
+USH00084570,"Key West, Florida",83.7,82.4,1.3
+USW00012839,"Miami, Florida",82.7,81.8,0.9
+USW00012815,"Orlando, Florida",79.8,79.5,0.3
+USH00088758,"Tallahassee, Florida",78.5,77.7,0.8
+USW00012842,"Tampa, Florida",82.4,81,1.4
+USW00012844,"West Palm Beach, Florida",82.1,80.8,1.3
+USW00013874,"Atlanta, Georgia",74.6,74.5,0.1
+USW00003820,"Augusta, Georgia",77,76.3,0.7
+USW00093842,"Columbus, Georgia",77.4,77.5,-0.1
+USW00003813,"Macon, Georgia",75.7,75.7,0
+USH00097847,"Savannah, Georgia",78.7,76.9,1.8
+USC00517166,"Captain Cook, Hawaii",70.3,69.7,0.6
+USW00021504,"Hilo, Hawaii",76.5,75.5,1
+USW00022521,"Honolulu Intl. Airport, Hawaii",82.6,81.3,1.3
+USC00519397,"Honolulu Zoo, Hawaii",-99,-99,-99
+USW00022516,"Kahului, Hawaii",79.5,78.6,0.9
+USC00513317,"Kapalua, Hawaii",79.1,77.9,1.2
+USC00515000,"Kula, Hawaii",66,66.2,-0.2
+USW00022536,"Lihue, Hawaii",80.2,78.1,2.1
+USW00024131,"Boise, Idaho",67.4,65.6,1.8
+USH00105241,"Lewiston, Idaho",66.9,64.9,2
+USW00024156,"Pocatello, Idaho",60.7,60.3,0.4
+USW00094846,"Chicago, Illinois",67.2,65.9,1.3
+USW00014923,"Moline, Illinois",67.5,67.1,0.4
+USW00014842,"Peoria, Illinois",68.6,67.6,1
+USW00094822,"Rockford, Illinois",65.9,64.9,1
+USW00093822,"Springfield, Illinois",70.1,68.9,1.2
+USW00093817,"Evansville, Indiana",71.3,70.9,0.4
+USW00014827,"Fort Wayne, Indiana",66.1,65.5,0.6
+USW00093819,"Indianapolis, Indiana",68.6,68.1,0.5
+USW00014848,"South Bend, Indiana",64.7,63.8,0.9
+USW00014933,"Des Moines, Iowa",69.4,68.3,1.1
+USW00094908,"Dubuque, Iowa",63.7,63.3,0.4
+USW00014943,"Sioux City, Iowa",66.1,65.8,0.3
+USW00094910,"Waterloo, Iowa",64.6,64.3,0.3
+USW00013985,"Dodge City, Kansas",70.5,70,0.5
+USW00023065,"Goodland, Kansas",65.9,65.7,0.2
+USW00013996,"Topeka, Kansas",70.8,70.2,0.6
+USW00003928,"Wichita, Kansas",72.6,72.1,0.5
+USW00093820,"Lexington, Kentucky",69.4,69.5,-0.1
+USW00093821,"Louisville, Kentucky",72.3,72,0.3
+USW00003816,"Paducah, Kentucky",72.1,71.3,0.8
+USH00160549,"Baton Rouge, Louisiana",77.6,77.7,-0.1
+USW00013942,"Monroe, Louisiana",76.5,76.7,-0.2
+USW00012916,"New Orleans, Louisiana",78.9,79.1,-0.2
+USW00013957,"Shreveport, Louisiana",77,77.1,-0.1
+USW00014606,"Bangor, Maine",62,60,2
+USW00014607,"Caribou, Maine",59.5,56.8,2.7
+USH00176905,"Portland, Maine",62.5,60.7,1.8
+USW00093721,"Baltimore, Maryland",69.8,68.8,1
+USW00093720,"Salisbury, Maryland",70.4,68.7,1.7
+USH00190736,"Blue Hill, Massachusetts",65.1,63.5,1.6
+USW00014739,"Boston, Massachusetts",66.5,64.8,1.7
+USW00094746,"Worcester, Massachusetts",63.2,62.1,1.1
+USW00094847,"Detroit, Michigan",66.6,65.3,1.3
+USW00014826,"Flint, Michigan",63.5,62.3,1.2
+USW00094860,"Grand Rapids, Michigan",65,64,1
+USW00014840,"Muskegon, Michigan",64.2,63.4,0.8
+USW00014847,"Sault Ste. Marie, Michigan",59.7,57.5,2.2
+USW00014913,"Duluth, Minnesota",57,57.1,-0.1
+USW00014918,"International Falls, Minnesota",55.8,55.5,0.3
+USH00215435,"Minneapolis-St. Paul, Minnesota",65.4,64.3,1.1
+USW00014925,"Rochester, Minnesota",62.4,61.6,0.8
+USW00014922,"St. Paul, Minnesota",65.4,64.3,1.1
+USW00003940,"Jackson, Mississippi",76.2,76.5,-0.3
+USW00093862,"Tupelo, Mississippi",74.4,74.4,0
+USW00003945,"Columbia, Missouri",70.3,70.1,0.2
+USW00003947,"Kansas City, Missouri",69.7,69.8,-0.1
+USW00013995,"Springfield, Missouri",70.7,70.9,-0.2
+USW00013994,"St. Louis, Missouri",73.2,71.7,1.5
+USW00024033,"Billings, Montana",63.8,62.2,1.6
+USW00094008,"Glasgow, Montana",62.1,60.4,1.7
+USH00243751,"Great Falls, Montana",59.8,57.8,2
+USW00024144,"Helena, Montana",61.9,59.5,2.4
+USW00024153,"Missoula, Montana",59.9,57.6,2.3
+USW00014935,"Grand Island, Nebraska",67.2,67.4,-0.2
+USW00014941,"Norfolk, Nebraska",65.6,65.1,0.5
+USW00024023,"North Platte, Nebraska",65.4,64.3,1.1
+USW00014942,"Omaha, Nebraska",69.6,68,1.6
+USW00024028,"Scottsbluff, Nebraska",64.3,63.6,0.7
+USW00023185,"Carson City, Nevada",68.9,66.1,2.8
+USW00024121,"Elko, Nevada",62.5,60.2,2.3
+USW00023154,"Ely, Nevada",59.5,58.7,0.8
+USW00023169,"Las Vegas, Nevada",85.1,83.6,1.5
+USH00266779,"Reno, Nevada",68.9,66.2,2.7
+USW00014745,"Concord, New Hampshire",63.5,61.9,1.6
+USW00093730,"Atlantic City, New Jersey",69.6,67.6,2
+USW00023050,"Albuquerque, New Mexico",71.7,70.6,1.1
+USH00297610,"Roswell, New Mexico",75.1,74.5,0.6
+USH00300042,"Albany, New York",65,63.8,1.2
+USW00004725,"Binghamton, New York",61.2,60.6,0.6
+USH00301012,"Buffalo, New York",64.2,62.9,1.3
+USH00305801,"New York, New York",69.8,68.4,1.4
+USW00094728,"New York (Central Park), New York",69.8,68.8,1
+USW00094789,"New York (JFK), New York",69.3,67.5,1.8
+USW00014732,"New York (La Guardia), New York",71.2,69.8,1.4
+USW00014771,"Syracuse, New York",63.6,62.4,1.2
+USW00003812,"Asheville, North Carolina",68.4,68,0.4
+USH00311458,"Cape Hatteras, North Carolina",76.1,74.2,1.9
+USW00013881,"Charlotte, North Carolina",73.5,72.8,0.7
+USW00013723,"Greensboro, North Carolina",71.8,71.1,0.7
+USW00013722,"Raleigh, North Carolina",73.6,72.4,1.2
+USW00013748,"Wilmington, North Carolina",76.1,75.1,1
+USW00024011,"Bismarck, North Dakota",62.5,61.5,1
+USW00024012,"Dickinson, North Dakota",59.9,58.6,1.3
+USW00014914,"Fargo, North Dakota",62.2,61.3,0.9
+USW00014916,"Grand Forks, North Dakota",61.2,58.8,2.4
+USW00024013,"Minot, North Dakota",62.2,61.6,0.6
+USW00094014,"Williston, North Dakota",61.9,60.3,1.6
+USW00014895,"Akron, Ohio",66.8,64.5,2.3
+USW00093814,"Cincinnati, Ohio",68.1,67.8,0.3
+USW00014820,"Cleveland, Ohio",67,65.9,1.1
+USW00014821,"Columbus, Ohio",68.2,67,1.2
+USW00094830,"Toledo, Ohio",65.4,64.8,0.6
+USW00013967,"Oklahoma City, Oklahoma",72.8,73.1,-0.3
+USW00013968,"Tulsa, Oklahoma",74.6,74.4,0.2
+USH00350328,"Astoria, Oregon",57.8,57.3,0.5
+USW00024221,"Eugene, Oregon",63,60.8,2.2
+USW00024225,"Medford, Oregon",68.7,65.9,2.8
+USW00024155,"Pendleton, Oregon",64.8,63,1.8
+USW00024229,"Portland, Oregon",65.4,63.3,2.1
+USW00024232,"Salem, Oregon",64.4,61.9,2.5
+USH00360106,"Allentown, Pennsylvania",67.5,65.7,1.8
+USW00014860,"Erie, Pennsylvania",65,64.2,0.8
+USW00014751,"Harrisburg, Pennsylvania",69.3,68.6,0.7
+USW00013739,"Philadelphia, Pennsylvania",71.3,69.8,1.5
+USW00094823,"Pittsburgh, Pennsylvania",66.5,64.7,1.8
+USW00014777,"Scranton, Pennsylvania",65.8,64.3,1.5
+USW00014778,"Williamsport, Pennsylvania",67,65.1,1.9
+USW00014765,"Providence, Rhode Island",66.8,64.5,2.3
+USW00013880,"Charleston, South Carolina",77.3,76.4,0.9
+USW00013883,"Columbia, South Carolina",77.4,76.4,1
+USH00383747,"Greenville, South Carolina",73,73.1,-0.1
+USH00390020,"Aberdeen, South Dakota",62.1,62,0.1
+USW00024025,"Pierre, South Dakota",64.9,64.1,0.8
+USW00024090,"Rapid City, South Dakota",62.8,61.8,1
+USW00014944,"Sioux Falls, South Dakota",64.5,63.1,1.4
+USW00013882,"Chattanooga, Tennessee",73.7,73.3,0.4
+USW00003811,"Jackson, Tennessee",72.6,72.3,0.3
+USW00013877,"Johnson City, Tennessee",68.9,67.7,1.2
+USW00013891,"Knoxville, Tennessee",71.4,72,-0.6
+USW00013893,"Memphis, Tennessee",75.4,75.6,-0.2
+USW00013897,"Nashville, Tennessee",73.2,72.9,0.3
+USW00013962,"Abilene, Texas",75.7,77.2,-1.5
+USW00023047,"Amarillo, Texas",70.5,70.9,-0.4
+USW00013958,"Austin, Texas",80.9,80.2,0.7
+USW00012919,"Brownsville, Texas",82.9,82.4,0.5
+USH00412015,"Corpus Christi, Texas",81,80.7,0.3
+USW00013960,"Dallas, Texas",80,79.7,0.3
+USW00022010,"Del Rio, Texas",81,81.7,-0.7
+USH00412797,"El Paso, Texas",79,77.8,1.2
+USW00012918,"Houston, Texas",81.4,80.2,1.2
+USW00023042,"Lubbock, Texas",73.7,73.4,0.3
+USW00023023,"Midland, Texas",77.8,77.3,0.5
+USH00417945,"San Antonio, Texas",80.2,80,0.2
+USW00013966,"Wichita Falls, Texas",75.7,76.5,-0.8
+USW00093129,"Cedar City, Utah",64.4,63.4,1
+USW00024127,"Salt Lake City, Utah",70.7,68.8,1.9
+USH00431081,"Burlington, Vermont",64.7,62.8,1.9
+USW00094705,"Montpelier, Vermont",59.5,57.5,2
+USH00446139,"Norfolk, Virginia",74.6,72.7,1.9
+USW00013740,"Richmond, Virginia",72.2,70.4,1.8
+USW00013741,"Roanoke, Virginia",70.3,69.4,0.9
+USW00024227,"Olympia, Washington",59.9,58,1.9
+USW00024233,"Seattle, Washington",62.7,61.2,1.5
+USH00457938,"Spokane, Washington",63.3,61.2,2.1
+USW00024243,"Yakima, Washington",66.3,64.2,2.1
+USW00003872,"Beckley, West Virginia",64.6,64.5,0.1
+USW00013866,"Charleston, West Virginia",68.7,68.2,0.5
+USW00013729,"Elkins, West Virginia",64,63.4,0.6
+USW00003860,"Huntington, West Virginia",68.9,68.6,0.3
+USW00014898,"Green Bay, Wisconsin",62.6,61.1,1.5
+USW00014920,"La Crosse, Wisconsin",66.9,65.8,1.1
+USW00014837,"Madison, Wisconsin",63.6,62.7,0.9
+USW00014839,"Milwaukee, Wisconsin",65.3,64,1.3
+USW00014897,"Wausau, Wisconsin",60.8,60.4,0.4
+USW00024089,"Casper, Wyoming",59.4,59.3,0.1
+USH00481675,"Cheyenne, Wyoming",59.9,59.5,0.4
+USW00024021,"Lander, Wyoming",-99,-99,-99
+USW00024029,"Sheridan, Wyoming",60.1,59,1.1
+USW00093738,"Washington (Dulles), Washington, D.C.",69.4,68.8,0.6
+USW00013743,"Washington (Reagan National), Washington, D.C.",73.2,71.9,1.3
+RQW00011641,"San Juan, Puerto Rico",83.6,82.1,1.5

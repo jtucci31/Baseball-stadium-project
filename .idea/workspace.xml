@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb7682ac-4691-403f-8c71-6b95bbff5945" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Data/.idea/Data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/1-ESPN-health-data/ESPN.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/1-ESPN-health-data/ESPN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/1-ESPN-health-data/ESPN_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/1-ESPN-health-data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/1-ESPN-health-data/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/2-stadium-food-safety/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/3-Baseball-reference-team-data/Attendance_2017.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/3-Baseball-reference-team-data/Team_Attendance_2017.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/3-Baseball-reference-team-data/originaldataDONOTEDIT/Attendance_2017.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/3-Baseball-reference-team-data/originaldataDONOTEDIT/Team_Attendance_2017.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/3-Baseball-reference-team-data/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/4-Voice-of-Fan-Report-2017/Voice_of_Fan_Report_2017.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/4-Voice-of-Fan-Report-2017/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5-Baseball-stadium-stats/Project_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5-Baseball-stadium-stats/Project_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5-Baseball-stadium-stats/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5-Baseball-stadium-stats/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5-Baseball-stadium-stats/stadium_statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5-Baseball-stadium-stats/stadium_statistics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/5-Baseball-stadium-stats/stadium_statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/6-NOAA-Weather/precipitation-data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/6-NOAA-Weather/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/6-NOAA-Weather/weather-data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/7-National-weather-service/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baseball-reference_team_data/Attendance_2017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baseball-reference_team_data/Team_Attendance_2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baseball-reference_team_data/White_Sox_2010-2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voice of Fan Report 2017/Voice_of_Fan_Report_2017.csv" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/1-ESPN-health-data/ESPN_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <folding>
+                <element signature="e#1#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/1-ESPN-health-data/ESPN_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/1-ESPN-health-data/ESPN.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="71" column="69838" selection-start-line="71" selection-start-column="69824" selection-end-line="71" selection-end-column="69838" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/6-NOAA-Weather/weather-data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/6-NOAA-Weather/precipitation-data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+              <folding>
+                <element signature="e#1#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data/6-NOAA-Weather/weather-precip-2017.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5148" selection-start-column="5148" selection-end-column="5148" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/6-NOAA-Weather/weather-temp-2017.xml">
+          <provider selected="true" editor-type-id="LargeFileEditor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>yankee stadium</find>
+      <find>chicago, il</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Data/1-ESPN-health-data/ESPN_2.py" />
+        <option value="$PROJECT_DIR$/Data/6-NOAA-Weather/weather-data.py" />
+        <option value="$PROJECT_DIR$/Data/6-NOAA-Weather/precipitation-data.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="590 ODM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="590 ODM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="590 ODM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="590 ODM" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="590 ODM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="590 ODM" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="6-NOAA-Weather" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.precipitation-data">
+    <configuration name="ESPN_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="590 ODM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data/1-ESPN-health-data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data/1-ESPN-health-data/ESPN_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="precipitation-data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="590 ODM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data/6-NOAA-Weather" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data/6-NOAA-Weather/precipitation-data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weather-data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="590 ODM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data/6-NOAA-Weather" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data/6-NOAA-Weather/weather-data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.precipitation-data" />
+        <item itemvalue="Python.weather-data" />
+        <item itemvalue="Python.ESPN_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15964173" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32912722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data/1-ESPN-health-data/ESPN_2.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Data/1-ESPN-health-data/ESPN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="71" column="69838" selection-start-line="71" selection-start-column="69824" selection-end-line="71" selection-end-column="69838" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/1-ESPN-health-data/ESPN_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/1-ESPN-health-data/ESPN_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#1#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/6-NOAA-Weather/weather-data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/6-NOAA-Weather/weather-temp-2017.xml">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/6-NOAA-Weather/precipitation-data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="e#1#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/6-NOAA-Weather/weather-precip-2017.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5148" selection-start-column="5148" selection-end-column="5148" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -36,7 +36,7 @@ print(teams)
 
 for record in data['items']:
     if 'MLB' in record['sports']:
-        print(record['name'])
+        print(record['name'] + "/", record['city'], record['inspections'])
 
 
 

@@ -12,6 +12,15 @@ tree = html.fromstring(site)
 # This is the main node for each stadium in the list that I'll loop through
 stadium_row = tree.xpath('//tr')
 
+# Cleans out missing values
+def clean_team(record):
+    if len(record) > 0:
+        result = record[0]
+    else:
+        result = 'missing_value'
+    return result
+
+
 # This loop grabs elements and accumulates them into rows first and then all rows together with .append
 all_stadiums = []
 for stadium in stadium_row[3:-3]:
@@ -21,12 +30,13 @@ for stadium in stadium_row[3:-3]:
     capacity = (stadium.xpath('td[4]/text()'))
     fair = (stadium.xpath('td[10]/text()'))
     foul = (stadium.xpath('td[11]/text()'))
-    row.append(stadium_name)
-    row.append(team)
-    row.append(capacity)
-    row.append(fair)
-    row.append(foul)
+    row.append(clean_team(stadium_name))
+    row.append(clean_team(team))
+    row.append(clean_team(capacity))
+    row.append(clean_team(fair))
+    row.append(clean_team(foul))
     all_stadiums.append(row)
+
 
 print(all_stadiums)
 

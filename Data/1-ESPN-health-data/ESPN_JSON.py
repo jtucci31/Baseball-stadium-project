@@ -32,9 +32,9 @@ data = json.loads(pathlib.Path('stadiums_espn.json').read_text())
 # teams = [d['teams'] for d in data['items']]
 
 
-for record in data['items']:
-    if 'MLB' in record['sports']:
-        print(record['name'] + " /", record['city'], record['inspections'], record['teams'])
+# for record in data['items']:
+#     if 'MLB' in record['sports']:
+#         print(record['name'] + " /", record['city'], record['inspections'], record['teams'])
 
 def clean_team(record):
     if len(record) > 1:
@@ -56,11 +56,12 @@ for record in data['items']:
         city = record['city']
         state_abbrev = record['state_abbrev']
         state = record['state']
-        critical_score = record['critical']
-        capacity = record['critical']
+        capacity = record['capacity']
         venue_score = record['venue']
         area_score = record['area']
-        inspections = record['inspections']
+        total_inspections = record['inspections']['total']
+        critical_inspections = record['inspections']['critical']
+        critical_score = record['critical']
         violations = record['violations']
 
         row = []
@@ -70,17 +71,20 @@ for record in data['items']:
         row.append(city)
         row.append(state_abbrev)
         row.append(state)
-        row.append(critical_score)
         row.append(venue_score)
         row.append(area_score)
-        row.append(inspections)
+        row.append(total_inspections)
+        row.append(critical_inspections)
+        row.append(critical_score)
         row.append(violations)
         all_stadiums.append(row)
 
 
 csv_file = open('ESPN_stadium_violations.csv', 'w', newline = '')
 csvout = csv.writer(csv_file)
-csvout.writerow(['MLB Team', 'Stadium Name', 'Seating Capacity', 'City', 'State Abbreviation', 'State', 'Critical Score in percentage', 'Venue Score', 'Area Score', 'Inspections', 'Violations'])
+csvout.writerow(['MLB Team', 'Stadium Name', 'Seating Capacity', 'City', 'State Abbreviation',
+                 'State', 'Venue Score', 'Area Score', 'Total Inspections',
+                 'Critical Inspections Found', 'Critical Score in percentage', 'Violations'])
 
 csvout.writerows(all_stadiums)
 csv_file.close()

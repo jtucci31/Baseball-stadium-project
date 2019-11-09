@@ -1,73 +1,73 @@
 Stadium,Team,Seating Capacity,"Fair Territory (1,000 sq. ft.)","Foul Territory (1,000 sq. ft.)"
-['Baker Bowl'],['Philadelphia Phillies'],"['18,800']",['96.7'],['28.6']
-['Forbes Field'],['Pittsburgh Pirates'],"['35,000 +']",['123.9'],['24.2']
-['Shibe Park'],['Phil. Athletics & Phillies'],"['33,000 +']",['108.7'],['29.2']
-"[""Sportsman's Park""]",['St. L. Browns & Cardinals'],"['30,000 +']",['107.7'],['33.7']
-['League Park'],['Cleveland Indians'],"['22,000']",['111.2'],['29.6']
-['Comiskey Park'],['Chicago White Sox'],"['46,500 +']",['113.6'],['29.0']
-['Polo Grounds'],"['N.Y. Giants, (Yanks & Mets)']","['56,000 +']",['129.4'],['36.1']
-['Griffith Stadium'],['Washington Senators'],"['29,000 +']",['121.1'],['31.7']
-['Crosley Field'],['Cincinnati Reds'],"['29,603 +']",['107.5'],['31.3']
-['Tiger Stadium'],['Detroit Tigers'],"['52,000 +']",['108.5'],['32.4']
-['Fenway Park'],['Boston Red Sox (& Braves)'],"['37,499 +']",['105.5'],['18.1']
-['Ebbets Field'],['Brooklyn Dodgers'],"['32,000 +']",['99.1'],['22.7']
-['Wrigley Field'],['Chicago Cubs (& Whales)'],"['41,019 +']",['107.8'],['18.6']
-['Braves Field'],['Boston Braves *'],"['44,500']",[],[]
-['Yankee Stadium'],['New York Yankees %'],"['70,000 +']",['128.9'],['21.0']
-['Cleveland Stadium'],['Cleveland Indians'],"['74,000']",['111.3'],[]
-['Milw. County Stadium'],['Milw. Braves & Brewers *'],"[""53,192 ' +""]",['111.4'],['29.5']
-['Memorial Stadium'],"[""Baltimore Orioles ' ;""]","['54,706']",['108.1'],['29.7']
-['Municipal Stadium'],['K.C. Athletics & Royals'],"[""35,561 ' ""]",['118.3'],['35.1']
-['Memorial Coliseum'],['Los Angeles Dodgers'],"['93,000']",['99.8'],['33.5']
-['Seals Stadium'],['San Franciso Giants'],"['22,900']",['108.5'],['22.7']
-['Candlestick Park'],['San Franciso Giants'],"['62,000 +']",['106.1'],['34.1']
-['Wrigley Field (L.A.)'],['Los Angeles Angels'],"['20,457']",['99.7'],['22.3']
-['Metropolitan Stadium'],['Minnesota Twins'],"[""45,919 ' +""]",['113.0'],['32.4']
-[],['L.A. Dodgers (& Angels)'],"['56,000']",['111.1'],['19.3']
-['Colt Stadium'],['Houston Colt 45s'],"['33,010']",['122.3'],['31.7']
-['RFK Stadium'],['Wash. Senators & Nationals'],"['45,000']",['116.8'],['29.7']
-['Shea Stadium'],['N.Y. Mets (& Yankees)'],"['57,405']",['111.3'],['21.9']
-['Astrodome'],['Houston Astros'],"['54,816 +']",['109.8'],['26.9']
-['Angel Stadium'],['L.A./Cal./Anaheim Angels'],"['45,483 +-']",['106.7'],['21.5']
-['Atlanta-Fulton Co. Stad.'],['Atlanta Braves'],"['52,870']",['110.9'],['35.9']
-['Busch Stadium II'],['St. Louis Cardinals'],"['54,727 ;']",['112.1'],['22.7']
-['Oakland Coliseum'],['Oakland Athletics'],"['48,219 +;']",['108.7'],['40.7']
-['Jarry Park'],['Montreal Expos'],"[""28,456 ' ""]",['112.0'],['25.3']
-"[""Sick's Stadium""]",['Seattle Pilots'],"[""28,500 ' ""]",['100.2'],['19.9']
-['Jack Murphy Stadium'],['San Diego Padres'],"['67,544 +;']",['106.9'],['28.9']
-['Riverfront Stadium'],['Cincinnati Reds'],"['52,952']",['110.4'],['22.5']
-['Three Rivers Stadium'],['Pittsburgh Pirates'],"['58,727']",['111.8'],['27.3']
-['Veterans Stadium'],['Philadelphia Phillies'],"['62,000']",['109.0'],['27.8']
-['Arlington Stadium'],['Texas Rangers'],"[""43,500 ' +""]",['111.5'],['24.9']
-['Kauffman Stadium'],['Kansas City Royals'],"['37,903 -']",['118.5'],['22.9']
-['Olympic Stadium'],['Montreal Expos'],"['60,476 ;']",['112.5'],['27.5']
-['Kingdome'],['Seattle Mariners'],"['60,000']",['104.2'],['28.0']
-['Exhibition Stadium'],['Toronto Blue Jays'],"[""43,737 ' ;""]",['107.3'],['26.1']
-['H.H.H. Metrodome'],['Minnesota Twins'],"['56,144 ;']",['107.5'],['34.3']
-['Rogers Centre'],['Toronto Blue Jays'],"['49,282']",['109.5'],['29.0']
-['U.S. Cellular Field'],['Chicago White Sox *'],"['40,615 -']",['105.3'],['25.0']
-['Camden Yards'],['Baltimore Orioles'],"['45,971 ;']",['108.1'],['23.6']
-[],['Florida Marlins'],"['43,909 ;']",['108.9'],['24.0']
-['Mile High Stadium'],['Colorado Rockies'],"['76,037']",['117.9'],['37.9']
-['Progressive Field *'],['Cleveland Indians'],"['38,000']",['105.4'],['21.9']
-['Globe Life Park'],['Texas Rangers'],"['48,114']",['112.6'],['18.9']
-['Coors Field'],['Colorado Rockies'],"['50,398']",['119.2'],['24.9']
-['Turner Field'],['Atlanta Braves'],"['49,586']",['112.1'],['23.1']
-['Tropicana Field'],['Tampa Bay Rays'],"['45,200 ;']",['108.9'],['25.3']
-['Chase Field'],['Arizona Diamondbacks'],"['48,633']",['114.2'],['25.5']
-['Safeco Field'],['Seattle Mariners'],"['47,476']",['106.1'],['24.3']
-[],['San Franciso Giants'],"['41,915']",['110.8'],['25.5']
-['Minute Maid Park'],['Houston Astros'],"['42,060']",['107.0'],['21.0']
-['Comerica Park'],['Detroit Tigers'],"['41,255']",['113.7'],['26.5']
-['Miller Park'],['Milwaukee Brewers'],"['41,900']",['111.2'],['21.1']
-['PNC Park'],['Pittsburgh Pirates'],"['38,362']",['111.2'],['22.2']
-['Great American Ballpark'],['Cincinnati Reds '],"['42,319']",['106.9'],['23.6']
-['Citizens Bank Park'],['Philadelphia Phillies '],"['43,651']",['105.0'],['24.5']
-['PETCO Park'],['San Diego Padres '],"['42,524']",['110.9'],['23.9']
-['Busch Stadium III'],['St. Louis Cardinals '],"['43,975 !']",['112.1'],['25.2']
-['Nationals Park'],['Washington Nationals '],"['41,418']",['109.1'],['23.1']
-['Yankee Stadium II'],['New York Yankees '],"['50,291']",['108.8'],['19.7']
-['Citi Field'],['New York Mets '],"['41,922']",['110.6'],['20.7']
-['Target Field'],['Minnesota Twins '],"['39,021']",['108.9'],['20.7']
-['Marlins Park'],['Miami Marlins '],"['37,442']",['114.6'],['21.0']
-['SunTrust Park'],['Atlanta Braves '],"['41,500']",['109.3'],['22.3']
+Baker Bowl,Philadelphia Phillies,"18,800",96.7,28.6
+Forbes Field,Pittsburgh Pirates,"35,000 +",123.9,24.2
+Shibe Park,Phil. Athletics & Phillies,"33,000 +",108.7,29.2
+Sportsman's Park,St. L. Browns & Cardinals,"30,000 +",107.7,33.7
+League Park,Cleveland Indians,"22,000",111.2,29.6
+Comiskey Park,Chicago White Sox,"46,500 +",113.6,29.0
+Polo Grounds,"N.Y. Giants, (Yanks & Mets)","56,000 +",129.4,36.1
+Griffith Stadium,Washington Senators,"29,000 +",121.1,31.7
+Crosley Field,Cincinnati Reds,"29,603 +",107.5,31.3
+Tiger Stadium,Detroit Tigers,"52,000 +",108.5,32.4
+Fenway Park,Boston Red Sox (& Braves),"37,499 +",105.5,18.1
+Ebbets Field,Brooklyn Dodgers,"32,000 +",99.1,22.7
+Wrigley Field,Chicago Cubs (& Whales),"41,019 +",107.8,18.6
+Braves Field,Boston Braves *,"44,500",missing_value,missing_value
+Yankee Stadium,New York Yankees %,"70,000 +",128.9,21.0
+Cleveland Stadium,Cleveland Indians,"74,000",111.3,missing_value
+Milw. County Stadium,Milw. Braves & Brewers *,"53,192 ' +",111.4,29.5
+Memorial Stadium,Baltimore Orioles ' ;,"54,706",108.1,29.7
+Municipal Stadium,K.C. Athletics & Royals,"35,561 ' ",118.3,35.1
+Memorial Coliseum,Los Angeles Dodgers,"93,000",99.8,33.5
+Seals Stadium,San Franciso Giants,"22,900",108.5,22.7
+Candlestick Park,San Franciso Giants,"62,000 +",106.1,34.1
+Wrigley Field (L.A.),Los Angeles Angels,"20,457",99.7,22.3
+Metropolitan Stadium,Minnesota Twins,"45,919 ' +",113.0,32.4
+missing_value,L.A. Dodgers (& Angels),"56,000",111.1,19.3
+Colt Stadium,Houston Colt 45s,"33,010",122.3,31.7
+RFK Stadium,Wash. Senators & Nationals,"45,000",116.8,29.7
+Shea Stadium,N.Y. Mets (& Yankees),"57,405",111.3,21.9
+Astrodome,Houston Astros,"54,816 +",109.8,26.9
+Angel Stadium,L.A./Cal./Anaheim Angels,"45,483 +-",106.7,21.5
+Atlanta-Fulton Co. Stad.,Atlanta Braves,"52,870",110.9,35.9
+Busch Stadium II,St. Louis Cardinals,"54,727 ;",112.1,22.7
+Oakland Coliseum,Oakland Athletics,"48,219 +;",108.7,40.7
+Jarry Park,Montreal Expos,"28,456 ' ",112.0,25.3
+Sick's Stadium,Seattle Pilots,"28,500 ' ",100.2,19.9
+Jack Murphy Stadium,San Diego Padres,"67,544 +;",106.9,28.9
+Riverfront Stadium,Cincinnati Reds,"52,952",110.4,22.5
+Three Rivers Stadium,Pittsburgh Pirates,"58,727",111.8,27.3
+Veterans Stadium,Philadelphia Phillies,"62,000",109.0,27.8
+Arlington Stadium,Texas Rangers,"43,500 ' +",111.5,24.9
+Kauffman Stadium,Kansas City Royals,"37,903 -",118.5,22.9
+Olympic Stadium,Montreal Expos,"60,476 ;",112.5,27.5
+Kingdome,Seattle Mariners,"60,000",104.2,28.0
+Exhibition Stadium,Toronto Blue Jays,"43,737 ' ;",107.3,26.1
+H.H.H. Metrodome,Minnesota Twins,"56,144 ;",107.5,34.3
+Rogers Centre,Toronto Blue Jays,"49,282",109.5,29.0
+U.S. Cellular Field,Chicago White Sox *,"40,615 -",105.3,25.0
+Camden Yards,Baltimore Orioles,"45,971 ;",108.1,23.6
+missing_value,Florida Marlins,"43,909 ;",108.9,24.0
+Mile High Stadium,Colorado Rockies,"76,037",117.9,37.9
+Progressive Field *,Cleveland Indians,"38,000",105.4,21.9
+Globe Life Park,Texas Rangers,"48,114",112.6,18.9
+Coors Field,Colorado Rockies,"50,398",119.2,24.9
+Turner Field,Atlanta Braves,"49,586",112.1,23.1
+Tropicana Field,Tampa Bay Rays,"45,200 ;",108.9,25.3
+Chase Field,Arizona Diamondbacks,"48,633",114.2,25.5
+Safeco Field,Seattle Mariners,"47,476",106.1,24.3
+missing_value,San Franciso Giants,"41,915",110.8,25.5
+Minute Maid Park,Houston Astros,"42,060",107.0,21.0
+Comerica Park,Detroit Tigers,"41,255",113.7,26.5
+Miller Park,Milwaukee Brewers,"41,900",111.2,21.1
+PNC Park,Pittsburgh Pirates,"38,362",111.2,22.2
+Great American Ballpark,Cincinnati Reds ,"42,319",106.9,23.6
+Citizens Bank Park,Philadelphia Phillies ,"43,651",105.0,24.5
+PETCO Park,San Diego Padres ,"42,524",110.9,23.9
+Busch Stadium III,St. Louis Cardinals ,"43,975 !",112.1,25.2
+Nationals Park,Washington Nationals ,"41,418",109.1,23.1
+Yankee Stadium II,New York Yankees ,"50,291",108.8,19.7
+Citi Field,New York Mets ,"41,922",110.6,20.7
+Target Field,Minnesota Twins ,"39,021",108.9,20.7
+Marlins Park,Miami Marlins ,"37,442",114.6,21.0
+SunTrust Park,Atlanta Braves ,"41,500",109.3,22.3

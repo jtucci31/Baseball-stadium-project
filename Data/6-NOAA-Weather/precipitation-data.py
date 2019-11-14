@@ -2,13 +2,27 @@
 import json
 import csv
 
-infile = open('weather-precip-2017.json', 'r', encoding = 'utf-8')
-data = json.load(infile)
-infile.close()
+# cities
+cities_infile = open('6-ESPN_stadium_violations.csv', 'rt')
 
+# weather
+weather_infile = open('weather-precip-2017.csv', 'rt')
 
+# Writes in stadium cities
+cities = []
+reader_1 = csv.DictReader(cities_infile)
+for rows in reader_1:
+    stadium_cities = rows['City, State']
+    cities.append(stadium_cities)
 
-for record in data:
-    cities = ('location', record)
-    average_precip = ('value', record)
-    print(cities)
+print(type(cities))
+
+# Runs stadium cities through the CSV to find only the rows needed
+reader_2 = csv.DictReader(weather_infile)
+for row in reader_2:
+    # print(row['Location'])
+    stadium_weather = row['Location']
+    if stadium_weather in cities:
+        print(stadium_weather)
+        # total_precip = row['Value']
+        # print(total_precip)

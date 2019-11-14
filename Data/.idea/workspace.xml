@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f77669f2-70e5-4dba-b829-43c72280314b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5-Baseball-stadium-stats/Voice-of-Fan-Report-2017-averages.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-Baseball-stadium-stats/baseball_stadium_stats_CSV_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-NOAA-Weather/6-ESPN_stadium_violations.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1-ESPN-health-data/ESPN_JSON.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-ESPN-health-data/ESPN_JSON.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1-ESPN-health-data/ESPN_stadium_violations.csv" beforeDir="false" afterPath="$PROJECT_DIR$/1-ESPN-health-data/ESPN_stadium_violations.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-ESPN-health-data/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1-ESPN-health-data/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-Baseball-reference-team-data/Team_Attendance_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/3-Baseball-reference-team-data/Team_Attendance_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-Voice-of-Fan-Report-2017/4_Voice_of_fan_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-Voice-of-Fan-Report-2017/4_Voice_of_fan_report.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-Voice-of-Fan-Report-2017/Voice_of_Fan_Report_2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/4-Voice-of-Fan-Report-2017/Voice_of_Fan_Report_2017.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-Baseball-stadium-stats/Project_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-Baseball-stadium-stats/baseball_stadium_stats_scrape_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-Baseball-stadium-stats/Project_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-Baseball-stadium-stats/baseball_stadium_stats_scrape_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-Baseball-stadium-stats/stadium_statistics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/5-Baseball-stadium-stats/stadium_statistics.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Baseball-stadium-stats/baseball_stadium_stats_CSV_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-Baseball-stadium-stats/baseball_stadium_stats_CSV_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-NOAA-Weather/precipitation-data.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-NOAA-Weather/precipitation-data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-NOAA-Weather/weather-precip-2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/6-NOAA-Weather/weather-precip-2017.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4-Voice-of-Fan-Report-2017/4_Voice_of_fan_report.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+            <state relative-caret-position="170">
+              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -36,28 +31,52 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1-ESPN-health-data/ESPN_JSON.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="1173">
+              <caret line="69" column="29" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
               <folding>
                 <element signature="e#1#12#0" expanded="true" />
-                <marker date="1573336376270" expanded="true" signature="1053:1150" ph="..." />
+                <marker date="1573666260996" expanded="true" signature="1052:1149" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5-Baseball-stadium-stats/baseball_stadium_stats_CSV_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6-NOAA-Weather/precipitation-data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+              <folding>
+                <element signature="e#1#12#0" expanded="true" />
+                <marker date="1573666517695" expanded="true" signature="427:689" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5-Baseball-stadium-stats/baseball_stadium_stats_CSV_1.py">
+        <entry file="file://$PROJECT_DIR$/6-NOAA-Weather/weather-precip-2017.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-            </state>
+            <state relative-caret-position="-68" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5-Baseball-stadium-stats/Voice-of-Fan-Report-2017-averages.csv">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/1-ESPN-health-data/ESPN_stadium_violations.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="41" selection-start-column="41" selection-end-column="41" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -93,6 +112,8 @@
       <find>toronto</find>
       <find>teams</find>
       <find>yankee</find>
+      <find>at&amp;t</find>
+      <find>kauffman</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -110,10 +131,11 @@
         <option value="$PROJECT_DIR$/1-ESPN-health-data/stadiums_espn.json" />
         <option value="$PROJECT_DIR$/1-ESPN-health-data/ESPN_scrape.py" />
         <option value="$PROJECT_DIR$/4-Voice-of-Fan-Report-2017/4_Voice_of_fan_report.py" />
-        <option value="$PROJECT_DIR$/1-ESPN-health-data/ESPN_JSON.py" />
         <option value="$PROJECT_DIR$/5-Baseball-stadium-stats/Project_2.py" />
         <option value="$PROJECT_DIR$/5-Baseball-stadium-stats/baseball_stadium_stats_scrape_2.py" />
         <option value="$PROJECT_DIR$/5-Baseball-stadium-stats/baseball_stadium_stats_CSV_1.py" />
+        <option value="$PROJECT_DIR$/1-ESPN-health-data/ESPN_JSON.py" />
+        <option value="$PROJECT_DIR$/6-NOAA-Weather/precipitation-data.py" />
       </list>
     </option>
   </component>
@@ -140,12 +162,7 @@
             <path>
               <item name="Data" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data" type="462c0819:PsiDirectoryNode" />
-              <item name="1-ESPN-health-data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-              <item name="5-Baseball-stadium-stats" type="462c0819:PsiDirectoryNode" />
+              <item name="6-NOAA-Weather" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -158,13 +175,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TOOCH\Desktop\SKOOL\590 ODM\Data\6-NOAA-Weather" />
+      <recent name="C:\Users\TOOCH\Desktop\SKOOL\590 ODM\Data\5-Baseball-stadium-stats" />
+      <recent name="C:\Users\TOOCH\Desktop\SKOOL\590 ODM\Data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\TOOCH\Desktop\SKOOL\590 ODM\Data\5-Baseball-stadium-stats" />
       <recent name="C:\Users\TOOCH\Desktop\SKOOL\590 ODM\Data\1-ESPN-health-data" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\TOOCH\Desktop\SKOOL\590 ODM\Data\5-Baseball-stadium-stats" />
-      <recent name="C:\Users\TOOCH\Desktop\SKOOL\590 ODM\Data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -179,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.baseball_stadium_stats_CSV_1">
+  <component name="RunManager" selected="Python.precipitation-data">
     <configuration name="4_Voice_of_fan_report" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,27 +232,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-ESPN-health-data/ESPN_JSON.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ESPN_scrape" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Data" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-ESPN-health-data" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-ESPN-health-data/ESPN_scrape.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,13 +282,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="precipitation-data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6-NOAA-Weather" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-NOAA-Weather/precipitation-data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.baseball_stadium_stats_CSV_1" />
-        <item itemvalue="Python.baseball_stadium_stats_scrape_2" />
+        <item itemvalue="Python.precipitation-data" />
         <item itemvalue="Python.ESPN_JSON" />
+        <item itemvalue="Python.baseball_stadium_stats_CSV_1" />
         <item itemvalue="Python.4_Voice_of_fan_report" />
-        <item itemvalue="Python.ESPN_scrape" />
+        <item itemvalue="Python.baseball_stadium_stats_scrape_2" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +318,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21651785" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -367,18 +384,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1-ESPN-health-data/stadium_statistics.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/1-ESPN-health-data/readme.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6-NOAA-Weather/weather-precip-2017.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="120" selection-start-column="120" selection-end-column="120" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1-ESPN-health-data/stadiums.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -428,13 +435,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4-Voice-of-Fan-Report-2017/ESPN_stadium_violations.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/4-Voice-of-Fan-Report-2017/ESPN_stadium_violations.csv" />
     <entry file="file://$PROJECT_DIR$/4-Voice-of-Fan-Report-2017/Voice_of_Fan_Report_2017.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-ESPN-health-data/ESPN_stadium_violations.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/3-Baseball-reference-team-data/Team_Stats_2017.csv">
@@ -459,9 +461,6 @@
     <entry file="file://$PROJECT_DIR$/4-Voice-of-Fan-Report-2017/Voice-of-Fan-Report-2017-averages.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/5-Baseball-stadium-stats/stadium_statistics.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/5-Baseball-stadium-stats/baseball_stadium_stats_scrape_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
@@ -472,32 +471,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4-Voice-of-Fan-Report-2017/4_Voice_of_fan_report.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/6-NOAA-Weather/weather-data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-Baseball-stadium-stats/stadium_statistics.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/5-Baseball-stadium-stats/Voice-of-Fan-Report-2017-averages.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1-ESPN-health-data/ESPN_JSON.py">
+    <entry file="file://$PROJECT_DIR$/1-ESPN-health-data/stadium_statistics.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-Voice-of-Fan-Report-2017/4_Voice_of_fan_report.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="e#1#12#0" expanded="true" />
-            <marker date="1573336376270" expanded="true" signature="1053:1150" ph="..." />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-NOAA-Weather/weather-precip-2017.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="120" selection-start-column="120" selection-end-column="120" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5-Baseball-stadium-stats/baseball_stadium_stats_CSV_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="68">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-ESPN-health-data/ESPN_JSON.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="29" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
+          <folding>
+            <element signature="e#1#12#0" expanded="true" />
+            <marker date="1573666260996" expanded="true" signature="1052:1149" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-NOAA-Weather/6-ESPN_stadium_violations.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-NOAA-Weather/precipitation-data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding>
+            <element signature="e#1#12#0" expanded="true" />
+            <marker date="1573666517695" expanded="true" signature="427:689" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-ESPN-health-data/ESPN_stadium_violations.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-NOAA-Weather/weather-precip-2017.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68" />
       </provider>
     </entry>
   </component>

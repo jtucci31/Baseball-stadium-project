@@ -1,4 +1,3 @@
-
 import json
 import csv
 import pathlib
@@ -68,9 +67,8 @@ for record in data['items']:
         row.append(mlb_teams)
         row.append(stadium_name)
         row.append(capacity)
-        row.append(city)
+        row.append(city + ", " + state)
         row.append(state_abbrev)
-        row.append(state)
         row.append(venue_score)
         row.append(area_score)
         row.append(total_inspections)
@@ -82,8 +80,8 @@ for record in data['items']:
 
 csv_file = open('ESPN_stadium_violations.csv', 'w', newline = '')
 csvout = csv.writer(csv_file)
-csvout.writerow(['MLB Team', 'Stadium Name', 'Seating Capacity', 'City', 'State Abbreviation',
-                 'State', 'Venue Score', 'Area Score', 'Total Inspections',
+csvout.writerow(['MLB Team', 'Stadium Name', 'Seating Capacity', 'City, State', 'State Abbreviation',
+                 'Venue Score', 'Area Score', 'Total Inspections',
                  'Critical Inspections Found', 'Critical Score in percentage', 'Violations'])
 
 csvout.writerows(all_stadiums)

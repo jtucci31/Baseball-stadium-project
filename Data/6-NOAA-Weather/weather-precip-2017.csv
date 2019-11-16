@@ -15,14 +15,17 @@ USW00023160,"Tucson, Arizona",8.59,7.24,1.35
 USW00003125,"Yuma, Arizona",0.31,1.54,-1.23
 USW00013964,"Fort Smith, Arkansas",29.78,24.09,5.69
 USW00013963,"Little Rock, Arkansas",20.13,22.47,-2.34
+,"Anaheim, California",0.68,1.09,-0.41
 USW00024213,"Eureka, California",4.68,5.85,-1.17
 USH00043257,"Fresno, California",0.37,1.45,-1.08
 USW00023174,"Los Angeles, California",0.2,1.15,-0.95
+,"Oakland, California",0.35,2.14,-1.79
 USW00023232,"Sacramento, California",0.29,2.17,-1.88
 USW00023188,"San Diego, California",1.01,0.96,0.05
 USW00023234,"San Francisco, California",0.47,1.74,-1.27
 USW00023061,"Alamosa, Colorado",7.5,4.89,2.61
 USW00093037,"Colorado Springs, Colorado",15.32,12.71,2.61
+,"Denver, Colorado",10.38,10.29,0.09
 USW00023066,"Grand Junction, Colorado",2.88,5.15,-2.27
 USW00093058,"Pueblo, Colorado",9.62,8.81,0.81
 USW00094702,"Bridgeport, Connecticut",23.33,21.99,1.34
@@ -92,7 +95,7 @@ USW00014840,"Muskegon, Michigan",18.26,18.57,-0.31
 USW00014847,"Sault Ste. Marie, Michigan",24.83,18.89,5.94
 USW00014913,"Duluth, Minnesota",27.64,21.97,5.67
 USW00014918,"International Falls, Minnesota",16.32,18.35,-2.03
-USH00215435,"Minneapolis-St. Paul, Minnesota",24.46,21.46,3
+USH00215435,"Minneapolis, Minnesota",24.46,21.46,3
 USW00014925,"Rochester, Minnesota",20.57,23.08,-2.51
 USW00014922,"St. Paul, Minnesota",24.46,21.46,3
 USW00003940,"Jackson, Mississippi",31.96,24.48,7.48
@@ -124,9 +127,9 @@ USH00300042,"Albany, New York",24.43,21.97,2.46
 USW00004725,"Binghamton, New York",27.68,21.99,5.69
 USH00301012,"Buffalo, New York",24.57,21.03,3.54
 USH00305801,"New York, New York",24.87,26.33,-1.46
-USW00094728,"New York (Central Park), New York",24.87,26.33,-1.46
+USW00094728,"Bronx, New York",24.87,26.33,-1.46
 USW00094789,"New York (JFK), New York",23.61,22.7,0.91
-USW00014732,"New York (La Guardia), New York",23.85,23.86,-0.01
+USW00014732,"Queens, New York",23.85,23.86,-0.01
 USW00014771,"Syracuse, New York",24.62,21.03,3.59
 USW00003812,"Asheville, North Carolina",34.06,23.85,10.21
 USH00311458,"Cape Hatteras, North Carolina",32.01,30.94,1.07
@@ -176,6 +179,7 @@ USW00013893,"Memphis, Tennessee",27.7,23.42,4.28
 USW00013897,"Nashville, Tennessee",27.58,22.9,4.68
 USW00013962,"Abilene, Texas",13.87,16.43,-2.56
 USW00023047,"Amarillo, Texas",19.48,14.77,4.71
+,"Arlington, Texas",20.58,20.4,0.18
 USW00013958,"Austin, Texas",20.37,19.84,0.53
 USW00012919,"Brownsville, Texas",16.93,19.26,-2.33
 USH00412015,"Corpus Christi, Texas",16.26,20.76,-4.5
@@ -212,5 +216,5 @@ USH00481675,"Cheyenne, Wyoming",9.43,11.23,-1.8
 USW00024021,"Lander, Wyoming",-99,-99,-99
 USW00024029,"Sheridan, Wyoming",6.41,9.17,-2.76
 USW00093738,"Washington (Dulles), Washington, D.C.",27.31,22.89,4.42
-USW00013743,"Washington (Reagan National), Washington, D.C.",23.87,21.55,2.32
+USW00013743,"Washington, District of Columbia",23.87,21.55,2.32
 RQW00011641,"San Juan, Puerto Rico",45.22,32.05,13.17

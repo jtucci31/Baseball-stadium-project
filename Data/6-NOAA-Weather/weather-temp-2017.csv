@@ -1,7 +1,4 @@
-﻿May - October 2017 U.S. & Puerto Rico City Average Temperature,,,,
-Units: Degrees Fahrenheit,,,,
-Missing: -99,,,,
-Location ID,Location,Value,1981-2010 Mean,Anomaly (1981-2010 base period)
+﻿Location ID,Location,Value,1981-2010 Mean,Anomaly (1981-2010 base period)
 USW00013876,"Birmingham, Alabama",74.9,74.9,0
 USW00003856,"Huntsville, Alabama",74.1,74.5,-0.4
 USW00013894,"Mobile, Alabama",77.3,77.1,0.2
@@ -18,14 +15,17 @@ USW00023160,"Tucson, Arizona",83.5,81.6,1.9
 USW00003125,"Yuma, Arizona",87.8,86.6,1.2
 USW00013964,"Fort Smith, Arkansas",75.3,74.6,0.7
 USW00013963,"Little Rock, Arkansas",74.1,73.9,0.2
+,"Anaheim, California",71.7,69.6,2.1
 USW00024213,"Eureka, California",56.8,55.7,1.1
 USH00043257,"Fresno, California",77.7,75.3,2.4
 USW00023174,"Los Angeles, California",69.4,66.7,2.7
+,"Oakland, California",68.5,66.5,2
 USW00023232,"Sacramento, California",72.5,70.4,2.1
 USW00023188,"San Diego, California",70.4,68.3,2.1
 USW00023234,"San Francisco, California",64.7,62.4,2.3
 USW00023061,"Alamosa, Colorado",57,56.2,0.8
 USW00093037,"Colorado Springs, Colorado",63.4,63,0.4
+,"Denver, Colorado",64.3,63.8,0.5
 USW00023066,"Grand Junction, Colorado",69,67.9,1.1
 USW00093058,"Pueblo, Colorado",66.8,66.8,0
 USW00094702,"Bridgeport, Connecticut",68.4,66.3,2.1
@@ -95,7 +95,7 @@ USW00014840,"Muskegon, Michigan",64.2,63.4,0.8
 USW00014847,"Sault Ste. Marie, Michigan",59.7,57.5,2.2
 USW00014913,"Duluth, Minnesota",57,57.1,-0.1
 USW00014918,"International Falls, Minnesota",55.8,55.5,0.3
-USH00215435,"Minneapolis-St. Paul, Minnesota",65.4,64.3,1.1
+USH00215435,"Minneapolis, Minnesota",65.4,64.3,1.1
 USW00014925,"Rochester, Minnesota",62.4,61.6,0.8
 USW00014922,"St. Paul, Minnesota",65.4,64.3,1.1
 USW00003940,"Jackson, Mississippi",76.2,76.5,-0.3
@@ -127,9 +127,9 @@ USH00300042,"Albany, New York",65,63.8,1.2
 USW00004725,"Binghamton, New York",61.2,60.6,0.6
 USH00301012,"Buffalo, New York",64.2,62.9,1.3
 USH00305801,"New York, New York",69.8,68.4,1.4
-USW00094728,"New York (Central Park), New York",69.8,68.8,1
+USW00094728,"Bronx, New York",69.8,68.8,1
 USW00094789,"New York (JFK), New York",69.3,67.5,1.8
-USW00014732,"New York (La Guardia), New York",71.2,69.8,1.4
+USW00014732,"Queens, New York",71.2,69.8,1.4
 USW00014771,"Syracuse, New York",63.6,62.4,1.2
 USW00003812,"Asheville, North Carolina",68.4,68,0.4
 USH00311458,"Cape Hatteras, North Carolina",76.1,74.2,1.9
@@ -179,6 +179,7 @@ USW00013893,"Memphis, Tennessee",75.4,75.6,-0.2
 USW00013897,"Nashville, Tennessee",73.2,72.9,0.3
 USW00013962,"Abilene, Texas",75.7,77.2,-1.5
 USW00023047,"Amarillo, Texas",70.5,70.9,-0.4
+,"Arlington, Texas",77.8,77.7,0.1
 USW00013958,"Austin, Texas",80.9,80.2,0.7
 USW00012919,"Brownsville, Texas",82.9,82.4,0.5
 USH00412015,"Corpus Christi, Texas",81,80.7,0.3
@@ -215,5 +216,5 @@ USH00481675,"Cheyenne, Wyoming",59.9,59.5,0.4
 USW00024021,"Lander, Wyoming",-99,-99,-99
 USW00024029,"Sheridan, Wyoming",60.1,59,1.1
 USW00093738,"Washington (Dulles), Washington, D.C.",69.4,68.8,0.6
-USW00013743,"Washington (Reagan National), Washington, D.C.",73.2,71.9,1.3
+USW00013743,"Washington, District of Columbia",73.2,71.9,1.3
 RQW00011641,"San Juan, Puerto Rico",83.6,82.1,1.5

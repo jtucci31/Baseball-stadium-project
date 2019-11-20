@@ -6,8 +6,8 @@ result = requests.get(url)
 
 
 if result.status_code is 200:
-    print("All good")
-else: print("Uh oh")
+    print("ESPN webpage has been scraped")
+else: print("Something went wrong")
 # Saves the URL html code into a file locally, so that I'm not hitting the website every time
 outfile = open('ESPN.html', 'w', encoding='utf-8')
 

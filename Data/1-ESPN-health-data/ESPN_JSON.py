@@ -1,39 +1,9 @@
+
 import json
 import csv
 import pathlib
 
-
-# infile = open('stadiums_espn.json', 'r', encoding = 'utf-8')
-# data = json.loads(infile)
-# infile.close()
-
-
 data = json.loads(pathlib.Path('stadiums_espn.json').read_text())
-
-
-# print(type(data))
-#
-# for record in data:
-#     print(record)
-
-
-# print(len(data['items']))
-#
-# print(data['items'])
-#
-# name = [d['name'] for d in data['items']]
-# city = [d['city']for d in data['items']]
-# state = [d['state_abbrev'] for d in data['items']]
-# violations = [d['inspections'] for d in data['items']]
-# violations_specific = [d['inspections'] for d in data['items']]
-# sports = [d['sports'] for d in data['items']]
-# critical_score = [d['critical'] for d in data['items']]
-# teams = [d['teams'] for d in data['items']]
-
-
-# for record in data['items']:
-#     if 'MLB' in record['sports']:
-#         print(record['name'] + " /", record['city'], record['inspections'], record['teams'])
 
 def clean_team(record):
     if len(record) > 1:
@@ -41,10 +11,6 @@ def clean_team(record):
     else:
         result = record[0]
     return result
-
-# for record in data['items']:
-#     mlb_teams = clean_team(record['teams'])
-#     print(mlb_teams)
 
 all_stadiums = []
 
@@ -77,6 +43,7 @@ for record in data['items']:
         row.append(violations)
         all_stadiums.append(row)
 
+# print(all_stadiums)
 
 csv_file = open('ESPN_stadium_violations.csv', 'w', newline = '')
 csvout = csv.writer(csv_file)

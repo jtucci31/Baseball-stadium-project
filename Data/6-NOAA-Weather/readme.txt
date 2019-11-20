@@ -15,10 +15,15 @@ Missing weather data was compiled from the same source, but by looking at the co
 
 
 
-
 Weather data missing cities:
 Anaheim, California [Weather/Precipitation]
 Oakland, California [Weather/Precipitation]
 Denver, Colorado [Weather/Precipitation]
 Toronto, Ontario
 Arlington, TX [Weather/Precipitation]
+
+
+
+Still cannot figure out how to get Toronto weather data, may have one missing_value there.
+
+Need to combine teams and stadiums from the ESPN CSV into the new CSV I'm creating to have better consistency for when I go to mash them together. Can't quite get that going right now.

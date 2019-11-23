@@ -4,8 +4,8 @@ import csv
 
 # cities from ESPN data
 cities_infile = open('6-ESPN_stadium_violations.csv', 'rt')
-# precipitation from NOAA data
-weather_infile = open('weather-precip-2017.csv', 'rt')
+# temperature from NOAA data
+weather_infile = open('weather-temp-2017.csv', 'rt')
 
 # Writes in stadium cities
 cities = []
@@ -50,9 +50,9 @@ for row in reader_2:
         precip_list.append(full_row)
 
 
-csv_file = open('stadium_precip_list.csv', 'w', newline = '')
+csv_file = open('stadium_temp_list.csv', 'w', newline = '')
 csvout = csv.writer(csv_file)
-csvout.writerow(['Location', 'Total Precipitation May-Oct 2017', '1981-2010 Average', 'Anomaly'])
+csvout.writerow(['Location', 'Average Temperature May-Oct 2017', '1981-2010 Average', 'Anomaly'])
 
 csvout.writerows(precip_list)
 csv_file.close()

@@ -27,7 +27,6 @@ for record in data['items']:
         total_inspections = record['inspections']['total']
         critical_inspections = record['inspections']['critical']
         critical_score = record['critical']
-        violations = record['violations']
 
         row = []
         row.append(mlb_teams)
@@ -40,21 +39,15 @@ for record in data['items']:
         row.append(total_inspections)
         row.append(critical_inspections)
         row.append(critical_score)
-        row.append(violations)
         all_stadiums.append(row)
 
 # print(all_stadiums)
 
 csv_file = open('ESPN_stadium_violations.csv', 'w', newline = '')
 csvout = csv.writer(csv_file)
-csvout.writerow(['MLB Team', 'Stadium Name', 'Seating Capacity', 'City, State', 'State Abbreviation',
+csvout.writerow(['Team', 'Stadium', 'Seating Capacity', 'Location', 'State Abbreviation',
                  'Venue Score', 'Area Score', 'Total Inspections',
-                 'Critical Inspections Found', 'Critical Score in percentage', 'Violations'])
+                 'Critical Inspections Found', 'Critical Score in percentage'])
 
 csvout.writerows(all_stadiums)
 csv_file.close()
-
-
-
-
-

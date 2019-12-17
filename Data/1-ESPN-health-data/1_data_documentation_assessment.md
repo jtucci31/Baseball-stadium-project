@@ -32,12 +32,16 @@ I gathered the data from the report by first web scraping using Python's request
 ### Data Structure
 This data is currently stored as a JSON file, but for the remainder of the data structure description I will refer to it in the future CSV format. This CSV file will have a total of 30 rows because there are 30 total baseball stadiums in the MLB. Each row will contain the following columns (in order from left to right):
 
-* Stadium Name
 * Team Name
+* Stadium Name
+* Seating Capacity
 * City and State - The location of the stadium within the United States (only one stadium is in Toronto, Canada and will be listed under Toronto, Ontario.)
-* Critical - This percentage is the average number of violations found at each location visited within the stadium.
+* State Abbreviation
 * Venue - This is the number of high-level violations per inspection.
 * Area - This is the number of high-level violations per inspection in the area/city of the stadium.
-* Inspections - This gives both the total number of inspections done and critical violations found.
+* Total Inspections - The total number of inspections that took place in the 2017 season at that stadium.
+* Critical Inspections - The total number of critical inspections found in the 2017 season at that stadium.
+* Critical Score- This percentage is the average number of violations found at each location visited within the stadium.
 
-There should be no missing values since every stadium had violations and a critical score associated with their average number of violations aggregate average. This data will include categorical data like locations, cities, and team names, and also include integers and percentages in numbers.
+
+There are no missing values since every stadium had violations and a critical score associated with their average number of violations aggregate average. This data will include categorical data like locations, cities, and team names, and also include integers and percentages in numbers.

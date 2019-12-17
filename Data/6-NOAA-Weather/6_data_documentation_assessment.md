@@ -13,7 +13,7 @@ This may take between 6-7 hours. There is a lot of data to gather, and I still m
 
 
 ### Authorship, Attribution, Provenance
-This data was compiled at the request of NOAA Headquarters. I don't think individual authorship exists for these data sets.
+This data was compiled at the request of NOAA Headquarters. Individual ownership of these datasets do not exist and all belong to NOAA.
 
 
 ### Semantic Contents

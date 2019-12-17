@@ -9,7 +9,7 @@ This will take me between 2-3 hours. I will need to run the current CSV through 
 One row will actually need to be removed entirely, and that can be done by hand. The Atlanta Braves opened a new stadium and began playing at SunTrust Park in 2017, abandoning Turner Field and playing their last season there in 2016. Yet, this dataset still includes Turner Field in a 2017 review, because they wanted to compare both stadiums to see how the new stadium compared. The Turner Field entry will be removed by hand before transforming this data.
 
 ### Authorship, Attribution, Provenance
-I'm still unable to find a true author for this source. Still in the process of looking for that. 
+The author was not listed on the webpage for this dataset. Review Trackers intellectual property information states that "All content on our website is copyrighted and owned by Review Trackers, Inc. or licensed to us by our registered users and other licensees."
 
 ### Semantic Contents
 This file contains data collected from baseball stadium reviews and compiled that data into a score for four categories: food and drink, fan experience, family experience, and facilities.
@@ -32,5 +32,6 @@ This CSV file is structured according to each stadium, much like my previous dat
 * Fan Experience - This score is based on keywords like seats, scoreboard, sightlines, atmosphere, crowd, history, and ambiance found in reviews. This score is in a range of -1 being the worst and +1 being the best.
 * Food and Drink - This score is based on keywords like hot dog, beer, and any other kind of food and drink offered at stadiums found in reviews. This score is in a range of -1 being the worst and +1 being the best.
 * Overall - This is the sum of the previous four categories added together. Because 1 is the best score and -1 is the worst score, that means that the overall score is in a range from -4 to +4. This specific data point is one I aim to change and have make more sense within the context of the previous four categories by taking the average instead. 
+* Average Score - This takes Facility, Family, Fan Experience, and Food and Drink and finds the average sentiment score for each individual stadium.
 
 This data has no missing values within any row. This data is largely integers in a range, which make them all long numbers. The overall score, as mentioned previously, is all four categories added together to create a new general score for each stadium. 

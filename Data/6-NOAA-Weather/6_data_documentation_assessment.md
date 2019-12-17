@@ -2,7 +2,7 @@
 
 
 ### Data Cleaning Assessment
-As of right now I will actually be working with two separate CSV files from this source. Both are along the same lines of listing major cities within the US and their weather or precipitation data. The cleaning process for each file will primarily consist of consolidating the data down to the 30 cities where the baseball stadiums are located. As of right now, both CSV's contain 219 rows. 
+This will be two separate CSV files that make up this source. Both are along the same lines of listing major cities within the US and their weather or precipitation data. The cleaning process for each file will primarily consist of consolidating the data down to the 30 cities where the baseball stadiums are located. As of right now, both CSV's contain 219 rows. 
 
 1. Gather a list of the 30 cities that I need from another data source. 
 2. Write this list into a separate .txt file to be used within the main CSV files.

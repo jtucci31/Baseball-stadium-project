@@ -3,8 +3,10 @@ import json
 import csv
 import pathlib
 
+# Imports the JSON file
 data = json.loads(pathlib.Path('stadiums_espn.json').read_text())
 
+# Function for the one stadium that has both a baseball and football team
 def clean_team(record):
     if len(record) > 1:
         result = record[1]
@@ -12,8 +14,8 @@ def clean_team(record):
         result = record[0]
     return result
 
+# Finds the necessary data from each JSON entry and writes it to a defined variable
 all_stadiums = []
-
 for record in data['items']:
     if 'MLB' in record['sports']:
         stadium_name = record['name']
@@ -28,6 +30,8 @@ for record in data['items']:
         critical_inspections = record['inspections']['critical']
         critical_score = record['critical']
 
+
+        # Accumulates all of the variables so that it can write a CSV file
         row = []
         row.append(mlb_teams)
         row.append(stadium_name)
@@ -41,8 +45,7 @@ for record in data['items']:
         row.append(critical_score)
         all_stadiums.append(row)
 
-# print(all_stadiums)
-
+# Writes the accumulated new variables from rows into a CSV
 csv_file = open('ESPN_stadium_violations.csv', 'w', newline = '')
 csvout = csv.writer(csv_file)
 csvout.writerow(['Team', 'Stadium', 'Seating Capacity', 'Location', 'State Abbreviation',

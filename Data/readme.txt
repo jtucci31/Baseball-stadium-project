@@ -1,15 +1,12 @@
 Datasets found: 5
 
-Baseball-reference-team-data X
-Voice-of-Fan-Report-2017 X
-Baseball-stadium-stats X
-NOAA-weather X
+1-ESPN-health-data
+3-Baseball-reference-team-data X
+4-Voice-of-Fan-Report-2017 X
+6-NOAA-weather X
 
 
-Still to find: 2-3
+Scrapped datasets: 1
 
-ESPN-health-data
-stadium-food-safety (maybe)
-weather (more?)
+5-Baseball-stadium-stats
 
-hello

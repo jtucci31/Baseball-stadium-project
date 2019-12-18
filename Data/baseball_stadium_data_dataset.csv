@@ -1,29 +1,29 @@
-Stadium	Team	Seating Capacity	Location	Critical Health Code Violation Percentage	W	L	Home	Attendance	Attend/G	Average Temperature May-Oct 2017	Total Precipitation May-Oct 2017	Average Online Review Score
-Chase Field	Diamondbacks	48519	Phoenix, Arizona	34.38	93	69	52-29	2134375	26350	89.0	2.34	0.678612762
-Petco Park	Padres	40162	San Diego, California	16.67	71	91	43-38	2138491	26401	70.4	1.01	0.7122477909999999
-Angel Stadium	Angels	45050	Anaheim, California	19.4	80	82	43-38	3019585	37279	71.7	0.68	0.636343177
-Oakland-Alameda County Coliseum	Athletics	63024	Oakland, California	22.69	75	87	46-35	1475721	18219	68.5	0.35	0.214975649
-AT&T Park	Giants	41915	San Francisco, California	24.69	64	98	38-43	3303652	40786	64.7	0.47	0.763056948
-Dodger Stadium	Dodgers	56000	Los Angeles, California	31.94	104	58	57-24	3765856	46492	69.4	0.2	0.422705202
-Coors Field	Rockies	50144	Denver, Colorado	71.96	87	75	46-35	2953650	36465	64.3	10.38	0.727549294
-Nationals Park	Nationals	41546	Washington, District of Columbia	51.85	97	65	47-34	2524980	31173	73.2	23.87	0.557547176
-Marlins Park	Marlins	37442	Miami, Florida	14.29	77	85	42-36	1583014	20295	82.7	67.28	0.537945453
-Tropicana Field	Rays	31042	Tampa, Florida	31.65	80	82	42-39	1253619	15477	82.4	38.83	0.583637023
-SunTrust Park	Braves	41149	Atlanta, Georgia	33.73	72	90	37-44	2505252	30929	74.6	28.59	0.383883343
-Wrigley Field	Cubs	42495	Chicago, Illinois	30.77	92	70	48-33	3199562	39501	67.2	25.94	0.529240842
-Guaranteed Rate Field	White Sox	40615	Chicago, Illinois	55.88	67	95	39-42	1629470	20117	67.2	25.94	0.60778341
-Fenway Park	Red Sox	37755	Boston, Massachusetts	17.24	93	69	48-33	2917678	36021	66.5	21.8	0.602103214
-Oriole Park at Camden Yards	Orioles	45971	Baltimore, Maryland	15.63	75	87	46-35	2028424	25042	69.8	23.69	0.7676243309999999
-Comerica Park	Tigers	41083	Detroit, Michigan	40.38	64	98	34-47	2321599	28662	66.6	16.52	0.707340968
-Target Field	Twins	39504	Minneapolis, Minnesota	50.44	85	77	41-40	2051279	25324	65.4	24.46	0.664621043
-Busch Stadium	Cardinals	43975	St. Louis, Missouri	22.58	83	79	44-37	3448337	42572	73.2	17.4	0.7075850090000001
-Kauffman Stadium	Royals	37903	Kansas City, Missouri	41.51	80	82	43-38	2220370	27412	69.7	34.67	0.7311854590000001
-Citi Field	Mets	41922	Queens, New York	55.17	70	92	37-44	2460622	30378	71.2	23.85	0.6520184520000001
-Yankee Stadium	Yankees	56886	Bronx, New York	79.07	91	71	51-30	3154938	38950	69.8	24.87	0.49177396
-Progressive Field	Indians	35041	Cleveland, Ohio	9.02	102	60	49-32	2048138	25286	67.0	20.17	0.73052225
-Great American Ball Park	Reds	42036	Cincinnati, Ohio	50.0	68	94	39-42	1836917	22678	68.1	26.81	0.7309797240000001
-PNC Park	Pirates	38496	Pittsburgh, Pennsylvania	27.69	75	87	44-37	1919447	23697	66.5	22.68	0.766064502
-Citizens Bank Park	Phillies	43651	Philadelphia, Pennsylvania	42.57	66	96	39-42	1905354	23523	71.3	27.13	0.709708111
-Minute Maid Park	Astros	40963	Houston, Texas	28.57	101	61	48-33	2403671	29675	81.4	56.15	0.62009517
-Safeco Field	Mariners	47943	Seattle, Washington	21.74	78	84	40-41	2135445	26364	62.7	9.23	0.746559057
-Miller Park	Brewers	41900	Milwaukee, Wisconsin	8.7	86	76	46-38	2627705	31282	65.3	18.31	0.7056808000000001
+Stadium,Team,Seating Capacity,Location,Critical Health Code Violation Percentage,W,L,Home,Attendance,Attend/G,Average Temperature May-Oct 2017,Total Precipitation May-Oct 2017,Average Online Review Score
+Chase Field,Diamondbacks,48519,"Phoenix, Arizona",34.38,93,69,52-29,2134375,26350,89.0,2.34,0.678612762
+Petco Park,Padres,40162,"San Diego, California",16.67,71,91,43-38,2138491,26401,70.4,1.01,0.7122477909999999
+Angel Stadium,Angels,45050,"Anaheim, California",19.4,80,82,43-38,3019585,37279,71.7,0.68,0.636343177
+Oakland-Alameda County Coliseum,Athletics,63024,"Oakland, California",22.69,75,87,46-35,1475721,18219,68.5,0.35,0.214975649
+AT&T Park,Giants,41915,"San Francisco, California",24.69,64,98,38-43,3303652,40786,64.7,0.47,0.763056948
+Dodger Stadium,Dodgers,56000,"Los Angeles, California",31.94,104,58,57-24,3765856,46492,69.4,0.2,0.422705202
+Coors Field,Rockies,50144,"Denver, Colorado",71.96,87,75,46-35,2953650,36465,64.3,10.38,0.727549294
+Nationals Park,Nationals,41546,"Washington, District of Columbia",51.85,97,65,47-34,2524980,31173,73.2,23.87,0.557547176
+Marlins Park,Marlins,37442,"Miami, Florida",14.29,77,85,42-36,1583014,20295,82.7,67.28,0.537945453
+Tropicana Field,Rays,31042,"Tampa, Florida",31.65,80,82,42-39,1253619,15477,82.4,38.83,0.583637023
+SunTrust Park,Braves,41149,"Atlanta, Georgia",33.73,72,90,37-44,2505252,30929,74.6,28.59,0.383883343
+Wrigley Field,Cubs,42495,"Chicago, Illinois",30.77,92,70,48-33,3199562,39501,67.2,25.94,0.529240842
+Guaranteed Rate Field,White Sox,40615,"Chicago, Illinois",55.88,67,95,39-42,1629470,20117,67.2,25.94,0.60778341
+Fenway Park,Red Sox,37755,"Boston, Massachusetts",17.24,93,69,48-33,2917678,36021,66.5,21.8,0.602103214
+Oriole Park at Camden Yards,Orioles,45971,"Baltimore, Maryland",15.63,75,87,46-35,2028424,25042,69.8,23.69,0.7676243309999999
+Comerica Park,Tigers,41083,"Detroit, Michigan",40.38,64,98,34-47,2321599,28662,66.6,16.52,0.707340968
+Target Field,Twins,39504,"Minneapolis, Minnesota",50.44,85,77,41-40,2051279,25324,65.4,24.46,0.664621043
+Busch Stadium,Cardinals,43975,"St. Louis, Missouri",22.58,83,79,44-37,3448337,42572,73.2,17.4,0.7075850090000001
+Kauffman Stadium,Royals,37903,"Kansas City, Missouri",41.51,80,82,43-38,2220370,27412,69.7,34.67,0.7311854590000001
+Citi Field,Mets,41922,"Queens, New York",55.17,70,92,37-44,2460622,30378,71.2,23.85,0.6520184520000001
+Yankee Stadium,Yankees,56886,"Bronx, New York",79.07,91,71,51-30,3154938,38950,69.8,24.87,0.49177396
+Progressive Field,Indians,35041,"Cleveland, Ohio",9.02,102,60,49-32,2048138,25286,67.0,20.17,0.73052225
+Great American Ball Park,Reds,42036,"Cincinnati, Ohio",50.0,68,94,39-42,1836917,22678,68.1,26.81,0.7309797240000001
+PNC Park,Pirates,38496,"Pittsburgh, Pennsylvania",27.69,75,87,44-37,1919447,23697,66.5,22.68,0.766064502
+Citizens Bank Park,Phillies,43651,"Philadelphia, Pennsylvania",42.57,66,96,39-42,1905354,23523,71.3,27.13,0.709708111
+Minute Maid Park,Astros,40963,"Houston, Texas",28.57,101,61,48-33,2403671,29675,81.4,56.15,0.62009517
+Safeco Field,Mariners,47943,"Seattle, Washington",21.74,78,84,40-41,2135445,26364,62.7,9.23,0.746559057
+Miller Park,Brewers,41900,"Milwaukee, Wisconsin",8.7,86,76,46-38,2627705,31282,65.3,18.31,0.7056808000000001
